@@ -1,0 +1,194 @@
+id: 2d47e390980c4e33af775150fd97a2ca
+annotation_type: Language
+revision: '00001'
+annotations:
+  a4bb215bcff148b298ee84927d3ebcbc:
+    span:
+      start: 40
+      end: 171
+    language: en
+  7dc87dd2fcb04809bf1cf5c3a879bab5:
+    span:
+      start: 208
+      end: 262
+    language: en
+  a6d1844c9bc044eca1ab7204cb26d949:
+    span:
+      start: 286
+      end: 662
+    language: en
+  3cf7311a3d02427eb4467c8505152c93:
+    span:
+      start: 11105
+      end: 11128
+    language: en
+  be19a702701f40eb9c908976591b0007:
+    span:
+      start: 12096
+      end: 12258
+    language: en
+  c0e463206a99453f8c8fefc94970581c:
+    span:
+      start: 18940
+      end: 19154
+    language: en
+  1c76d08283774288906a3bf3685db684:
+    span:
+      start: 21664
+      end: 21878
+    language: en
+  ee0c61a99bea412c9650a9a88b12d08d:
+    span:
+      start: 22307
+      end: 22539
+    language: en
+  37bef7c6ae8f41eda0267b0dd32b84ff:
+    span:
+      start: 38496
+      end: 38662
+    language: en
+  41aebbdaac5847c6b33b67adf0391a73:
+    span:
+      start: 45750
+      end: 45775
+    language: en
+  f06eef927a874e86b9eee3223f672f6f:
+    span:
+      start: 66575
+      end: 66732
+    language: en
+  773b06dffd4d4af8b581fa728eb3a50d:
+    span:
+      start: 68788
+      end: 68971
+    language: en
+  d217fb9de08f43048683fe3a82fde887:
+    span:
+      start: 75745
+      end: 75766
+    language: en
+  2f82f0fed054443bb34a540ba1b36718:
+    span:
+      start: 98187
+      end: 98313
+    language: en
+  5d16ccf1127044c7a4921c2208e9672a:
+    span:
+      start: 111165
+      end: 111464
+    language: en
+  8447ca14714d42b59436f12bc338cfa2:
+    span:
+      start: 113806
+      end: 113879
+    language: en
+  04c1433efb6a47758b4cc0dc15b3a813:
+    span:
+      start: 115197
+      end: 115356
+    language: en
+  a4525fb3c49142888194cc1593e63298:
+    span:
+      start: 116210
+      end: 116340
+    language: en
+  6bae7e19a47240019d81b5b7877c4c26:
+    span:
+      start: 116499
+      end: 116641
+    language: en
+  e2953d4db2754c6e9aca3bc1158a128c:
+    span:
+      start: 142615
+      end: 142789
+    language: en
+  ee039a93d1aa44efa7ee44af53789df1:
+    span:
+      start: 145216
+      end: 145309
+    language: en
+  936900f901ea4f778d5e9e6b7e67f2c8:
+    span:
+      start: 151125
+      end: 151285
+    language: en
+  f86db117368b45c484fbbbe28705e081:
+    span:
+      start: 158118
+      end: 158313
+    language: en
+  82c49fea565c4999bb1f2889aceade1e:
+    span:
+      start: 159580
+      end: 159608
+    language: en
+  89af4cf4e89b42e4b71089396555529f:
+    span:
+      start: 177714
+      end: 177905
+    language: en
+  3083ca47707c44e89f34ee2e30f1f6bb:
+    span:
+      start: 191990
+      end: 192123
+    language: en
+  88dc1fd9ca904b6c85c8615efbb850df:
+    span:
+      start: 201743
+      end: 201892
+    language: en
+  6cd3346ca7564a86b8c76bcbd965f267:
+    span:
+      start: 203500
+      end: 203659
+    language: en
+  81364fe43cae450a8e419385803eb3ec:
+    span:
+      start: 216040
+      end: 216201
+    language: en
+  92ce0db894f444c495969e94f3197c73:
+    span:
+      start: 220434
+      end: 220524
+    language: en
+  ee866c603ea04ac69137333d1274dbed:
+    span:
+      start: 225665
+      end: 225688
+    language: en
+  7390494f621a4c56a23fb39cd33418c7:
+    span:
+      start: 242060
+      end: 242212
+    language: en
+  a3ac2b5e3cc84526b2381e4eebcdcffd:
+    span:
+      start: 248183
+      end: 248352
+    language: en
+  20cb715e44e943ec9cdddd0ec99aaba2:
+    span:
+      start: 248523
+      end: 248704
+    language: en
+  d74e717d98d248afa5cf2e85603c48e1:
+    span:
+      start: 263003
+      end: 263094
+    language: en
+  7e4a67cd93ef461597939bbf1a1eac0c:
+    span:
+      start: 271572
+      end: 271677
+    language: en
+  943d22a037e54d8283b921c89d1d6592:
+    span:
+      start: 279823
+      end: 279933
+    language: en
+  b0f82060ec0640418b402315212b5d79:
+    span:
+      start: 284319
+      end: 284474
+    language: en
